@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Titi98
 - 👀 I’m interested in Deep and Machine Learning 
-- 🌱 I’m currently learning neural networks and I search to find the optimal structure for my NN
+- 🌱 I’m currently learning neural networks and I search to find an optimal NN's structure
 - 💞️ I’m looking to collaborate on the search of an optimal NN's structure
 
 <!---
